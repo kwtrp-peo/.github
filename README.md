@@ -1,3 +1,3 @@
 # .github
 
-Files for the path-omics GitHub organisation
+Files for the patho-epiomics GitHub organisation
