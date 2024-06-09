@@ -1,6 +1,6 @@
-![patho-epiomics logo](https://github.com/patho-epiomics/logos/blob/main/patho-epiomics-logos/patho-epiomics-logo-lightbg.png#gh-light-mode-only) 
-![patho-epiomics logo](https://github.com/patho-epiomics/logos/blob/main/patho-epiomics-logos/patho-epiomics-logo-darkbg.png#gh-dark-mode-only)
+![kwtrp-peo logo](https://github.com/kwtrp-peo/logos/blob/main/kwtrp-peo-logos/kwtrp-peo-logo-lightbg.png#gh-light-mode-only) 
+![kwtrp-peo logo](https://github.com/kwtrp-peo/logos/blob/main/kwtrp-peo-logos/kwtrp-peo-logo-darkbg.png#gh-dark-mode-only)
 
-## Welcome to [patho-epiomics]()!
+## Welcome to [kwtrp-peo]()!
 
-patho-epiomics is a collaborative effort within the Pathogen Epidemiology and Omics (PEO) group at [KEMRI-Wellcome Trust](https://kemri-wellcome.org/), dedicated to developing [Nextflow](https://nextflow.io/) pipelines utilizing [nf-core](https://nf-co.re) resources for targeted bioinformatics and phylogenetics analysis of pathogens.
+kwtrp-peo is a collaborative effort within EDD department at [KEMRI-Wellcome Trust](https://kemri-wellcome.org/), dedicated to developing [Nextflow](https://nextflow.io/) pipelines utilizing [nf-core](https://nf-co.re) resources for targeted bioinformatics and phylogenetics analysis of pathogens.
